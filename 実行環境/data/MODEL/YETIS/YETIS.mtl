@@ -1,0 +1,56 @@
+newmtl YETIS:Arm_1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd Arm_1_color.png
+Ni 1.00
+newmtl YETIS:Body_1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd Body_1_color.png
+Ni 1.00
+newmtl YETIS:Cone_1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd Cone_1_color.png
+Ni 1.00
+newmtl YETIS:Eyes_1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd Eyes_1_color.png
+Ni 1.00
+newmtl YETIS:Foot_1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd Foot_1_color.png
+Ni 1.00
+newmtl YETIS:Head_1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd Head_1_color.png
+Ni 1.00
+newmtl YETIS:Horn_1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd Horn_1_color.png
+Ni 1.00
+newmtl YETIS:eyebrown_1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd eyebrown_1_color.png
+Ni 1.00

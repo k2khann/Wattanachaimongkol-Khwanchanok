@@ -1,0 +1,49 @@
+newmtl YetiGold:Arm_1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd Arm_1_color_1.png
+Ni 1.00
+newmtl YetiGold:Body_1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd Body_1_color_3.png
+Ni 1.00
+newmtl YetiGold:Eyes_1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd Eyes_1_color_1.png
+Ni 1.00
+newmtl YetiGold:Foot_1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd Foot_1_color_1.png
+Ni 1.00
+newmtl YetiGold:Head_1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd Head_1_color_1.png
+Ni 1.00
+newmtl YetiGold:eyebrown_1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd eyebrown_1_color_1.png
+Ni 1.00
+newmtl YetiGold:horn_1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd horn_1_color.png
+Ni 1.00

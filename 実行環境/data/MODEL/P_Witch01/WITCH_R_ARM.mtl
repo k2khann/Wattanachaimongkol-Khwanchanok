@@ -1,0 +1,14 @@
+newmtl WITCH_R_ARM:Big_Ring_1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd Big_Ring_1_color.png
+Ni 1.00
+newmtl WITCH_R_ARM:Rwing_1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd Rwing_1_color.png
+Ni 1.00

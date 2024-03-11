@@ -1,0 +1,14 @@
+newmtl Snow:Cylinder_1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd Cylinder_1_color_1.png
+Ni 1.00
+newmtl Snow:Sphere_1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd Sphere_1_color.png
+Ni 1.00

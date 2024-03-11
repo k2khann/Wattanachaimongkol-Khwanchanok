@@ -1,0 +1,35 @@
+newmtl WITCH_BODY:Scarf_fur_1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd Scarf_fur_1_color.png
+Ni 1.00
+newmtl WITCH_BODY:beak_button
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd beak_button_color.png
+Ni 1.00
+newmtl WITCH_BODY:beak_top
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd beak_top_color.png
+Ni 1.00
+newmtl WITCH_BODY:body
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd body_color.png
+Ni 1.00
+newmtl WITCH_BODY:eyes
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd eyes_color.png
+Ni 1.00
